@@ -6,6 +6,9 @@
 - [Learn NestJS – Complete Course](https://www.youtube.com/watch?v=sFnAHC9lLaw)
 - [Nestjs Documentation](https://docs.nestjs.com/first-steps)
 
+**Prerequisites**
+- Nodejs (version >= 16)
+
 ## Getting started
 1. Install nestjs globally on your machine
     ```
