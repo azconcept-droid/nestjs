@@ -18,3 +18,5 @@
     ```
     nest new RESTFul-API
     ```
+>
+> To create a new project with TypeScript's stricter feature set, pass the ``--strict`` flag to the ``nest new`` command.  
